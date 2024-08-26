@@ -13,6 +13,7 @@ https://www.androidpolice.com/
 https://9to5google.com/
 https://samlover.com/
 https://isp.page/
+https://worldmobile.io/en
 
 ## PL
 https://www.telepolis.pl/
