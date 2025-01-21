@@ -17,3 +17,6 @@ https://worldmobile.io/en
 
 ## PL
 https://www.telepolis.pl/
+
+
+OBCZAJ TEN KURS: https://www.evernext.pl/kurs-budowania-agentow-ai
